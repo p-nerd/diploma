@@ -3,6 +3,15 @@
 * Bord Roll: `542798`
 * Reg No: `1502116261`
 
+## Details
+```
+Name: Shihab Mahamud
+Department: Computer
+Roll: 542798
+Shift: 2nd
+Semester: 2nd
+```
+
 # Semester
 ## [First Semester](https://drive.google.com/file/d/1-YCfZFxusjVjUxzwIVyKLjBPW6F1v_Ou/view)
 * Methematices-1 `200 tpt`
