@@ -9,7 +9,7 @@ Name: Shihab Mahamud
 Department: Computer
 Roll: 542798
 Shift: 2nd
-Semester: 2nd
+Semester: 3nd (B)
 ```
 
 # Semester
