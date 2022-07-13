@@ -6,6 +6,7 @@
 ## Details
 ```
 Name: Shihab Mahamud
+নায়: সিহাব মাহামুদ
 Department: Computer
 Roll: 542798
 Shift: 2nd
