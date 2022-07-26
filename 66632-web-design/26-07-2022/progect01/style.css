@@ -1,0 +1,20 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: #eee8ae;
+}
+
+#wrapper {
+	width: 960px;
+	margin: 20px auto;
+
+}
+
+#header {
+	background-color: #fab72a;
+	padding: 15px;
+	border-bottom: 5px solid #6b710b;
+}
