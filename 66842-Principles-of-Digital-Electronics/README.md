@@ -11,6 +11,8 @@
 ## Chapter 02:
 
 1. https://youtu.be/FEbw34oKDfQ
+1. https://youtu.be/UwO7sSpvAXI
+1. https://youtu.be/H7TPvGwQb0o
 
 ## Chapter 04: Logic Gate
 
