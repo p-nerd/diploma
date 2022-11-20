@@ -15,6 +15,9 @@
 1. https://youtu.be/H7TPvGwQb0o
 1. https://youtu.be/0fA8RaKw9Tw
 1. https://youtu.be/EQlu_Fla3Vc
+1. https://youtu.be/POboD31KRbY
+1. https://youtu.be/E5nWgv4NNME
+1. https://youtu.be/8QwicyGG-Tw
 
 ## Chapter 04: Logic Gate
 
