@@ -1,6 +1,6 @@
 # Videos
 
-## Chapter 01:
+## Chapter 01
 
 1.  https://youtu.be/dA2O1lELOA4
 1.  https://youtu.be/MmRNVZkojqg
@@ -8,7 +8,7 @@
 1.  https://youtu.be/pVFDbyEzpDw
 1.  https://youtu.be/lgU-JQnA_00
 
-## Chapter 02:
+## Chapter 02
 
 1. https://youtu.be/FEbw34oKDfQ
 1. https://youtu.be/UwO7sSpvAXI
@@ -18,6 +18,15 @@
 1. https://youtu.be/POboD31KRbY
 1. https://youtu.be/E5nWgv4NNME
 1. https://youtu.be/8QwicyGG-Tw
+1. https://youtu.be/D8jbZxKSMCY
+1. https://youtu.be/LtM8fkAEYJo
+
+## Chapter 03
+
+1.  https://youtu.be/ACxCUlXFF-o
+1.  https://youtu.be/bcbeybHed_k
+1.  https://youtu.be/JeVQuiAdsGg
+1.  https://youtu.be/v-SV3Ae7TCo
 
 ## Chapter 04: Logic Gate
 
