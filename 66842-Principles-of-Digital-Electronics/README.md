@@ -30,10 +30,10 @@
 
 ## Chapter 04: Logic Gate
 
-1.  Type of logic gate: https://youtube.com/watch?v=wJE3TV9Z_2w&feature=share
-1.  Basic gate: https://youtube.com/watch?v=zdhHcJD9dYA&feature=share
-1.  Universal gate: https://youtube.com/watch?v=HzLg5vLIzys&feature=share
-1.  Exclusive gate: https://youtube.com/watch?v=Ed-SKX_t7jk&feature=share
+1.  Type of logic gate: https://youtu.be/wJE3TV9Z_2w
+1.  Basic gate: https://youtu.be/zdhHcJD9dYA
+1.  Universal gate: https://youtu.be/HzLg5vLIzys
+1.  Exclusive gate: https://youtu.be/Ed-SKX_t7jk
 1.  Prove that NAND gate is a universal gate: https://youtu.be/FYp6VoDBUew
 1.  Prove that NOR gate is a universal gate: https://youtu.be/1Ctgqd3PIVg
-1.  Type of logic gate: https://youtu.be/bCgl0p8H7hQ
+1.  3 Input Ex Or gate: https://youtu.be/bCgl0p8H7hQ
