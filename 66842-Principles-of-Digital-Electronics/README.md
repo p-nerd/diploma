@@ -37,3 +37,8 @@
 1.  Prove that NAND gate is a universal gate: https://youtu.be/FYp6VoDBUew
 1.  Prove that NOR gate is a universal gate: https://youtu.be/1Ctgqd3PIVg
 1.  3 Input Ex Or gate: https://youtu.be/bCgl0p8H7hQ
+
+## Chapter 05
+
+1. https://youtu.be/XRmIMxdfPLs
+1. https://youtu.be/PgMYJnCatT0
