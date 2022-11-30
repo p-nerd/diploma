@@ -6,7 +6,7 @@ namespace Chapter05
     {
         static void IfElse()
         {
-            int number = 5;
+            int number = 6;
             if (number < 5)
             {
                 Console.WriteLine("{0} is less then 5", number);
@@ -63,7 +63,12 @@ namespace Chapter05
         }
         static void Main(string[] args)
         {
-            TernaryOperator();
+            // IfElse();
+            // int a = 9;
+            // int b = -17;
+
+            // Console.WriteLine(a % b);
+            // Console.WriteLine(a / b);
         }
     }
 }
