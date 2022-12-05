@@ -8,7 +8,12 @@ namespace SWitchStatement
         {
             char ch;
             Console.WriteLine("Enter an alphabet");
-            ch = Convert.ToChar(Console.ReadLine());
+            var x = Console.ReadLine();
+            if (x == null) {
+                ch = 'c';
+                return;
+            }
+            ch = Convert.ToChar(x);
 
             switch (Char.ToLower(ch))
             {
