@@ -1,4 +1,4 @@
-﻿namespace P07SeriesOf5
+﻿namespace P16SeriesOf2
 {
     class Program
     {
@@ -8,10 +8,16 @@
             Console.Write("Enter the n: ");
             n = Convert.ToInt32(Console.ReadLine());
 
-            for (int i = 2; i <= n; i += 2)
+            // n = 10
+
+            // sum = 
+            // i = 6,
+            // 12 <= 10 -> false
+            for (int i = 2; i <= n; i = i + 2)
             {
-                sum += i;
+                sum = sum + i;
             }
+            // 
             Console.WriteLine("Sum: " + sum);
         }
     }

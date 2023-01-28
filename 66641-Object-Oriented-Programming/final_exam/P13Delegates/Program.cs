@@ -1,33 +1,30 @@
 ﻿using System;
-delegate int NChanger(int x);
+delegate void NChanger(int x);
 
 namespace P13Delegates
 {
     class Program
     {
         static int num = 10;
-        public static int Add(int n)
+        public static void Add(int n)
         {
             num += n;
-            return num;
         }
-        public static int Mul(int n)
+        public static void Mul(int n)
         {
             num *= n;
-            return num;
+        }
+        public static void Calc(NChanger x, int n)
+        {
+            x(n);
         }
         static void Main(string[] args)
         {
-            NChanger nc1 = new NChanger(Add);
-            NChanger nc2 = new NChanger(Mul);
-
-            nc1(25);
-            Console.WriteLine($"Value of num: {num}");
-
-            nc2(5);
-            Console.WriteLine($"Value of num: {num}");
-
-            Console.ReadKey();
+            Console.WriteLine(num);
+            Calc(Add, 20);
+            Console.WriteLine(num);
+            Calc(Mul, 50);
+            Console.WriteLine(num);
         }
     }
 }
