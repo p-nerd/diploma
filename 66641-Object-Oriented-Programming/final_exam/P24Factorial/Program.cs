@@ -1,4 +1,4 @@
-﻿namespace P17FactorialRecursive
+﻿namespace P24Factorial
 {
     class Program
     {
@@ -7,18 +7,14 @@
             Console.WriteLine("Enter the number: ");
             int number = Convert.ToInt32(Console.ReadLine());
 
-            int result = Factorial(number);
+            int result = 1;
+
+            for (int i = 1; i <= number; i++)
+            {
+                result *= i;
+            }
             Console.WriteLine("Factorial: " + result);
             Console.ReadKey();
         }
-        static int Factorial(int number)
-        {
-            if (number == 0)
-            {
-                return 1;
-            }
-            return number * Factorial(number - 1);
-        }
     }
-
 }
