@@ -1,9 +1,11 @@
 # Diploma Study
 
+My Diploma Study Source Code And Details
+
+## My Details
+
 -   Board Roll: `542798`
 -   Reg No: `1502116261`
-
-## Details
 
 ```
 Name: Shihab Mahamud
@@ -77,7 +79,7 @@ Semester: 3nd (B)
 -   Industrial Management `100 pp`
 -   Optional Subject -1 : Web Mastering
 
-## Seven Semester 
+## Seven Semester
 
 -   System Analysis & Design `150 tptp`
 -   Network Administration & Services `200 tptp`
