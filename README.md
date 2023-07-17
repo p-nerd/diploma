@@ -14,7 +14,6 @@ Department: Computer
 Roll: 542798
 Class Roll: 175
 Shift: 2nd
-Semester: 3nd (B)
 ```
 
 # Semester
