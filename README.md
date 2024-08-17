@@ -12,9 +12,12 @@ Name: Shihab Mahamud
 নাম: সিহাব মাহামুদ
 Department: Computer
 Roll: 542798
-Class Roll: 175
+Reg No: 1502116261
 Shift: 2nd
 ```
+<!--
+Class Roll: 175
+-->
 
 # Semester
 
